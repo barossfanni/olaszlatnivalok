@@ -145,7 +145,7 @@
       "name": "Villa Adriana",
       "location": "Tivoli",
       "description": "Római kori villa Tivoliban, amelyet Hadrianus császár építtetett, és ma UNESCO Világörökség része."
-    },
+    }
   ]
 
 

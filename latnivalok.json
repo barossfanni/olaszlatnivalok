@@ -1,0 +1,176 @@
+[
+    {
+      "name": "Colosseum",
+      "location": "Róma",
+      "description": "Az ókori Róma ikonikus amfiteátruma, amely gladiátorjátékoknak és más közönségszórakoztatásoknak adott otthont.",
+      "kep":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg"
+    },
+    {
+      "name": "Pisai ferde torony",
+      "location": "Pisa",
+      "description": "Világhírű ferde torony a Pisai Dóm téren, amely az építés során alapozási problémák miatt dőlt meg.",
+      "kep":"https://cdn.nwmgroups.hu/s/img/i/2301/20230116pisaferdetoronyepiteszet.jpg"
+    },
+    {
+      "name": "Velencei Csatornák",
+      "location": "Velence",
+      "description": "Velence híres vízi útjai, ahol gondolákkal és vízi taxikkal lehet közlekedni a városban.",
+      "kep":"https://m.blog.hu/ve/velencei-karneval/image/velencei-unnepek.jpg"
+    },
+    {
+      "name": "Vatikánváros",
+      "location": "Róma",
+      "description": "A világ legkisebb állama és a katolikus egyház központja, ahol a Szent Péter-bazilika és a Sixtus-kápolna található.",
+      "kep":"https://vjm.hu/wp-content/uploads/2017/04/shutterstock_221570695-1-1170x776.jpg"
+    },
+    {
+      "name": "Pompeii",
+      "location": "Campania",
+      "description": "Az ókori római város, amelyet a Vezúv kitörése pusztított el, ma régészeti lelőhely és múzeum.",
+      "kep":"https://lp-cms-production.imgix.net/2020-11/shutterstockRF_1033620628.jpg?auto=format&q=75&w=1920"
+    },
+    {
+      "name": "Cinque Terre",
+      "location": "Liguria",
+      "description": "Öt festői tengerparti falu Liguria partján, híres színes házairól és gyönyörű tájairól.",
+      "kep":"https://s.yimg.com/ny/api/res/1.2/NIWgurcQMipZwn8I.OBDew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE2MDA7aD0xMDY2O3E9NTA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/d7247600-f8a4-11ee-af4b-532fc679a3ef"
+    },
+    {
+      "name": "Dózse-palota",
+      "location": "Velence",
+      "description": "A gótikus palota, amely egykor Velence kormányzóinak rezidenciája volt, ma múzeum.",
+      "kep":"https://travel.usnews.com/images/Matteo_ColomboBuilding-city-sunset.jpg"
+    },
+    {
+      "name": "Uffizi Képtár",
+      "location": "Firenze",
+      "description": "A világ egyik leghíresebb művészeti múzeuma, amely reneszánsz műalkotások széles gyűjteményével büszkélkedhet.",
+      "kep":"https://cdn.getyourguide.com/img/location/60096fc0e4e89.jpeg/99.jpg"
+    },
+    {
+      "name": "Capri",
+      "location": "Campania",
+      "description": "Festői sziget a Nápolyi-öbölben, híres sziklás partjairól, barlangjairól és luxus üdülőhelyeiről.",
+      "kep":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LhMdO5hJd9c62N7D0r7CFBTdagfeMc1yuwgcaARoAk2vX6ODgahzbw46AT7jAU8Qm64&usqp=CAU"
+    },
+    {
+      "name": "Dóm Milánóban",
+      "location": "Milánó",
+      "description": "Gótikus székesegyház, amely Milánó központjában található, Olaszország legnagyobb temploma.",
+      "kep":"https://cdn.britannica.com/41/250241-050-75947720/Milan-Duomo-in-Milan-Italy.jpg"
+    },
+    {
+      "name": "Szent Márk-bazilika",
+      "location": "Velence",
+      "description": "Velence fő temploma, híres arany mozaikjairól és bizánci építészetéről.",
+      "kep":"https://www.velenceikarneval.hu/uploads/velenceikarneval_hu/latnivalok/szent_mark_bazilika/szent_mark_bazilika_velence_10.jpg"
+    },
+    {
+      "name": "Trevi-kút",
+      "location": "Róma",
+      "description": "Róma egyik legismertebb szökőkútja, ahol a látogatók érméket dobálnak, hogy szerencsét és visszatérést kérjenek.",
+      "kep":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fontana_di_Trevi_2023.jpg/1200px-Fontana_di_Trevi_2023.jpg"
+    },
+    {
+      "name": "Amalfi-part",
+      "location": "Campania",
+      "description": "Lélegzetelállító tengerparti szakasz déli Olaszországban, meredek szikláival és festői falvaival.",
+      "kep":"https://a.cdn-hotels.com/gdcs/production22/d554/0eef04a7-c6d5-4d50-bce9-c8fa27187158.jpg"
+    },
+    {
+      "name": "Pantheon",
+      "location": "Róma",
+      "description": "Az ókori Róma egyik legjobban megőrzött épülete, amely egykor minden istennek szentelt templom volt.",
+      "kep":"https://www.italiandualcitizenship.net/wp-content/uploads/2019/03/History-of-the-Pantheon-Italy.jpg.webp"
+    },
+    {
+      "name": "Szent Péter-bazilika",
+      "location": "Vatikánváros",
+      "description": "A világ egyik legnagyobb és legfontosabb katolikus temploma, amely Szent Péter sírja fölé épült.",
+      "kep":"https://travel.usnews.com/images/St_Peters_Basilica_Joe_Price_Getty.jpg"
+    },
+    {
+      "name": "Arena di Verona",
+      "location": "Verona",
+      "description": "Római kori amfiteátrum Veronában, amely ma nyári operaelőadásairól híres.",
+      "kep":"https://upload.wikimedia.org/wikipedia/commons/8/80/Verona_Arena_%28Arena_di_Verona%29.jpg"
+    },
+    {
+      "name": "Palermo katedrális",
+      "location": "Palermo",
+      "description": "Szicília fővárosának katedrálisa, amely különböző építészeti stílusokat ötvöz, többek között normann, gótikus és barokk elemeket.",
+      "kep":"https://live.staticflickr.com/65535/48824993347_37db8bd0de_b.jpg"
+    },
+    {
+      "name": "Villa d'Este",
+      "location": "Tivoli",
+      "description": "Reneszánsz villa és kert Tivoliban, híres szökőkútjairól és vízi játékairól.",
+      "kep":"https://d3w13n53foase7.cloudfront.net/http%3A//upload.wikimedia.org/wikipedia/commons/1/1d/Villa_d%27Este_01.jpg_image.jpg"
+    },
+    {
+      "name": "Napoli-öböl",
+      "location": "Campania",
+      "description": "Nápoly körüli festői öböl, kilátással a Vezúvra és több szigetre, mint például Capri és Ischia.",
+      "kep":"https://res.cloudinary.com/helmyt/image/upload/w_1366,h_768,c_fill,q_auto,f_auto/e_trim/site/images/Bay-of-Naples.jpeg?mtime=20190103130410&focal=none"
+    },
+    {
+      "name": "Orvietói dóm",
+      "location": "Orvieto",
+      "description": "Gótikus székesegyház Orvietóban, híres freskóiról és díszes homlokzatáról.",
+      "kep":"https://lh3.googleusercontent.com/proxy/bMaYK3GMZ11GESyDglzUQ7kcXsVlxZT6DeC105OIBhz1SSIVPVeeCoRpnmRaT5DAs07QbgiyFKwVAGIO9F7TPdpyHO9X71LcEVOoRhp0o7L5UFMTLWLy73Lk8Q"
+    },
+    {
+      "name": "Torre del Mangia",
+      "location": "Siena",
+      "description": "Torony a sienai Piazza del Campo téren, ahonnan lenyűgöző kilátás nyílik a városra.",
+      "kep":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/03_Palazzo_Pubblico_Torre_del_Mangia_Siena.jpg/2490px-03_Palazzo_Pubblico_Torre_del_Mangia_Siena.jpg"
+    },
+    {
+      "name": "Bologna tornyai",
+      "location": "Bologna",
+      "description": "Két híres középkori torony, az Asinelli és a Garisenda, amelyek Bologna városképét meghatározzák.",
+      "kep":"https://as1.ftcdn.net/v2/jpg/01/63/72/18/1000_F_163721839_L45j6lt375aMtGeFnlwmqRy5S6sXO5iZ.jpg"
+    },
+    {
+      "name": "Palazzo Vecchio",
+      "location": "Firenze",
+      "description": "Firenze városháza, egykor a Medici család rezidenciája, ma múzeum.",
+      "kep":"https://www.toscana.info/en/wp-content/uploads/sites/144/piazza-signoria-florence-hd.jpg"
+    },
+    {
+      "name": "Santa Maria delle Grazie",
+      "location": "Milánó",
+      "description": "Templom Milánóban, amely otthont ad Leonardo da Vinci híres freskójának, az Utolsó vacsorának.",
+      "kep":"https://upload.wikimedia.org/wikipedia/commons/8/83/Santa_Maria_delle_Grazie_Milan_2013.jpg"
+    },
+    {
+      "name": "Szent János Lateráni Bazilika",
+      "location": "Róma",
+      "description": "Róma fő bazilikája és a pápa katedrálisa, amelyet lenyűgöző barokk és reneszánsz művészet díszít.",
+      "kep":"https://img1.oastatic.com/img2/99401012/max/variant.jpg"
+    },
+    {
+      "name": "Capri Kék Barlang",
+      "location": "Capri",
+      "description": "Természetes tengeri barlang, amely híres ragyogó kék fényéről, amelyet a víz alatti fényhatások hoznak létre.",
+      "kep":"https://checkyeti.imgix.net/images/prod/products/24304/Giuliani-Charter-Boat-Tour-blue-grotto-77"
+    },
+    {
+      "name": "Matera barlanglakások",
+      "location": "Matera",
+      "description": "Ősi barlanglakások Materában, amelyek az UNESCO Világörökség részét képezik.",
+      "kep":"https://www.welcometoitalia.com/wp-content/uploads/2021/01/panoramic_sassi.jpg"
+    },
+    {
+      "name": "Palatinus-domb",
+      "location": "Róma",
+      "description": "Az ókori Róma egyik legrégebbi része, ahol a római császárok palotái és egyéb történelmi emlékek találhatók.",
+      "kep":"https://civitavecchia.portmobility.it/sites/default/files/palatino_-_roma.jpg"
+    },
+    {
+      "name": "Villa Adriana",
+      "location": "Tivoli",
+      "description": "Római kori villa Tivoliban, amelyet Hadrianus császár építtetett, és ma UNESCO Világörökség része.",
+      "kep":"https://www.italia.it/content/dam/tdh/it/cultural-places/lazio/tivoli/villa-adriana/media/20220104133313-canopo-villa-adriana-tivoli-lazio-shutterstock-1192767730.jpg"
+    }
+  ]
